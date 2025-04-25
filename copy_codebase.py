@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os, sys
 
-def flatten(root, exts=('.py','.js')):
+def flatten(root, exts=('.py','.js')): # add file extensions that you want to copy
     parts = []
     for dirpath, _, filenames in os.walk(root):
         for fn in sorted(filenames):
