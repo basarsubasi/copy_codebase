@@ -17,5 +17,5 @@
 4. Use the command `python3 copy_codebase.py </path/to/your/codebase>`
 5. Copy the single line that is inside of the file "one_line_code.txt"
 6. Paste it to your favorite LLM
-7. Enjoy the vibes lol
+7. Enjoy the vibes
 
