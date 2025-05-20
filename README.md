@@ -1,6 +1,6 @@
 # copy_codebase.py
 
-**copy_codebase.py** is a script that copies all the characters in a specific codebase into one single line and creates a file called **one_line_code.txt** so you can copy that line easıly and paste all of your codebase into an LLM in a single line.
+**copy_codebase.py** is a script that copies all the characters in a specific codebase into one single line and creates a file called **one_line_code.txt** so you can copy that line easily and paste all of your codebase into an LLM in a single line.
 
 
 
